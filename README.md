@@ -62,9 +62,7 @@ To run this project locally on your machine, follow these steps:
 3. Open the `index.html` file in your preferred web browser to start using the Form Validation Project.
 
 
-## Validate with Ease
 
-Experience the convenience and power of the Form Validation Project. Ensure accurate and properly formatted data in your forms. Visit the [Live Demo]) and enjoy an efficient way to validate user inputs.
 
 ## Contribute
 
