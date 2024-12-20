@@ -1,7 +1,7 @@
 # Form Validation Project
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-brightgreen)]
-[![GitHub Repository]https://github.com/Ankit17102003A/Ecommerce-review-2
+[![GitHub Repository](https://github.com/Ankit17102003A/Ecommerce-review-2)]
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 [![HTML](https://img.shields.io/badge/HTML-5-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
