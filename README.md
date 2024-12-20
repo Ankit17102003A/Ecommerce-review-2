@@ -13,10 +13,6 @@ Welcome to the "Form Validation Project"! This web application allows you to val
 
 The "Form Validation Project" is designed to simplify the process of validating user inputs in forms. It uses regular expressions to check the correctness and formatting of data, such as emails, phone numbers, and more.
 
-## Explore the Project
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-brightgreen)](https://rajatrawal.github.io/form-validation-js/)
-
 ## Features
 
 - **User-Friendly Interface**: The application provides an intuitive and easy-to-use interface for form validation.
