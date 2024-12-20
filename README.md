@@ -43,29 +43,6 @@ This project leverages the following technologies:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com/)
 
-## Installation
-
-To run this project locally on your machine, follow these steps:
-
-1. Clone the repository to your local machine using this command:
-
-   ```shell
-   git clone https://github.com/rajatrawal/form-validation-js.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```shell
-   cd form-validation-js
-   ```
-
-3. Open the `index.html` file in your preferred web browser to start using the Form Validation Project.
-
-
-
-
 ## Contribute
-
 If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on GitHub
-
 Thank you for exploring the "Form Validation Project"! We hope this application simplifies form validation for you. 📝🚀
