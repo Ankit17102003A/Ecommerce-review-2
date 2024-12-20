@@ -64,10 +64,10 @@ To run this project locally on your machine, follow these steps:
 
 ## Validate with Ease
 
-Experience the convenience and power of the Form Validation Project. Ensure accurate and properly formatted data in your forms. Visit the [Live Demo](https://rajatrawal.github.io/form-validation-js/) and enjoy an efficient way to validate user inputs.
+Experience the convenience and power of the Form Validation Project. Ensure accurate and properly formatted data in your forms. Visit the [Live Demo]) and enjoy an efficient way to validate user inputs.
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/form-validation-js).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on GitHub
 
 Thank you for exploring the "Form Validation Project"! We hope this application simplifies form validation for you. 📝🚀
