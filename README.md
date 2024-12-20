@@ -3,7 +3,6 @@
 [![HTML](https://img.shields.io/badge/HTML-5-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple)](https://getbootstrap.com/)
 
 Welcome to the "Form Validation Project"! This web application allows you to validate form input using regular expressions (regex) with HTML, CSS, JavaScript, and Bootstrap. Ensure the data entered into your forms is accurate and correctly formatted.
 
